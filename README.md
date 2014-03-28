@@ -2,7 +2,7 @@
 
 *A Mac OS X Terminal Theme That Matches the Tumblr Dashboard*
 
-I work at Tumblr and I use Terminal. One day I decided that my Terminal should match my Tumblr Dashboard, so this is the product of that. 
+I work at Tumblr and I use Terminal. One day I decided that my Terminal should match my Tumblr Dashboard, so this is the product of that.  If you love Tumblr and Terminal, [we’re hiring](http://tumblr.com/jobs).
 
 ## Install
 
@@ -17,6 +17,3 @@ All the colors
 ![diff](images/diff.png)
   
 A git diff.
-
-If you love Tumblr and Terminal, [we’re hiring](http://tumblr.com/jobs).
-
