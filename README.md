@@ -1,8 +1,8 @@
 # Tumblr Terminal Theme
 
-*A Mac OS X Terminal Theme That Matches the Tumblr Dashboard*
+*A [Mac OS X Terminal](http://en.wikipedia.org/wiki/Terminal_(OS_X)) Theme That Matches the [Tumblr Dashboard](http://tumblr.com/dashboard)*
 
-I work at Tumblr and I use Terminal. One day I decided that my Terminal should match my Tumblr Dashboard, so this is the product of that.  If you love Tumblr and Terminal, [we’re hiring](http://tumblr.com/jobs).
+I work at Tumblr, and I use Terminal. One day I decided that my Terminal should match my Tumblr Dashboard, so this is the product of that.  If you also love Tumblr and Terminal, [we’re hiring](http://tumblr.com/jobs) engineers.
 
 ## Install
 
