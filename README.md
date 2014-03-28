@@ -12,8 +12,4 @@ To use the theme, download or clone the repository and double-click the Tumblr.t
 
 ![Colors](images/colors.png)
 
-All the colors
-
 ![diff](images/diff.png)
-  
-A git diff.
